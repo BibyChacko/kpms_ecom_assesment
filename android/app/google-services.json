@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "737425132211",
+    "project_id": "kpms-ecom",
+    "storage_bucket": "kpms-ecom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737425132211:android:f15fb135bf9ccda2f2bec6",
+        "android_client_info": {
+          "package_name": "in.fluttertrainer.kpms_ecom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX67SVK3RZ_M2c8Mk6ogqSdqTBpwTRFi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737425132211:android:13176b6aa0869f15f2bec6",
+        "android_client_info": {
+          "package_name": "in.fluttertrainer.kpms_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX67SVK3RZ_M2c8Mk6ogqSdqTBpwTRFi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
